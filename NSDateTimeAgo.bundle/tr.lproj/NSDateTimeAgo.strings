@@ -5,13 +5,13 @@
 "%d hours ago" = "%d saat";
 
 /* No comment provided by engineer. */
-"%d minutes ago" = "%d dk.";
+"%d minutes ago" = "%d dakika";
 
 /* No comment provided by engineer. */
 "%d months ago" = "%d ay";
 
 /* No comment provided by engineer. */
-"%d seconds ago" = "%d sn";
+"%d seconds ago" = "%d saniye";
 
 /* No comment provided by engineer. */
 "%d weeks ago" = "%d hafta";
@@ -20,25 +20,25 @@
 "%d years ago" = "%d yıl";
 
 /* No comment provided by engineer. */
-"A minute ago" = "1 dk.";
+"A minute ago" = "Bir dakika";
 
 /* No comment provided by engineer. */
-"An hour ago" = "1 saat";
+"An hour ago" = "Bir saat";
 
 /* No comment provided by engineer. */
-"Just now" = "şimdi";
+"Just now" = "Şimdi";
 
 /* No comment provided by engineer. */
-"Last month" = "geçen ay";
+"Last month" = "Geçen ay";
 
 /* No comment provided by engineer. */
-"Last week" = "geç. haf.";
+"Last week" = "Geçen hafta";
 
 /* No comment provided by engineer. */
-"Last year" = "geçen yıl";
+"Last year" = "Geçen yıl";
 
 /* No comment provided by engineer. */
-"Yesterday" = "dün";
+"Yesterday" = "Dün";
 
 /* No comment provided by engineer. */
 "1 year ago" = "1 yıl";
@@ -56,16 +56,24 @@
 "This morning" = "sabah";
 
 /* No comment provided by engineer. */
-"This afternoon" = "öğleden son.";
+"This afternoon" = "Ö. Sonra";
 
 /* No comment provided by engineer. */
-"Today" = "bugün";
+"Today" = "Bugün";
 
 /* No comment provided by engineer. */
-"This week" = "bu hafta";
+"This week" = "Bu hafta";
 
 /* No comment provided by engineer. */
-"This month" = "bu ay";
+"This month" = "Bu ay";
 
 /* No comment provided by engineer. */
-"This year" = "bu yıl";
+"This year" = "Bu yıl";
+
+"%dmo" = "%d ay";
+"%ds" = "%d san";
+"%dh" = "%d saat";
+"%dw" = "%d hafta";
+"%dd" = "%d gün";
+"%dm" = "%d dak";
+"%dy" = "%d yıl";
