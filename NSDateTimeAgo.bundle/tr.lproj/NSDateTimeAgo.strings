@@ -1,71 +1,71 @@
 /* No comment provided by engineer. */
-"%d days ago" = "%d gün önce";
+"%d days ago" = "%d gün";
 
 /* No comment provided by engineer. */
-"%d hours ago" = "%d saat önce";
+"%d hours ago" = "%d saat";
 
 /* No comment provided by engineer. */
-"%d minutes ago" = "%d dakika önce";
+"%d minutes ago" = "%d dk.";
 
 /* No comment provided by engineer. */
-"%d months ago" = "%d ay önce";
+"%d months ago" = "%d ay";
 
 /* No comment provided by engineer. */
-"%d seconds ago" = "%d saniye önce";
+"%d seconds ago" = "%d sn";
 
 /* No comment provided by engineer. */
-"%d weeks ago" = "%d hafta önce";
+"%d weeks ago" = "%d hafta";
 
 /* No comment provided by engineer. */
-"%d years ago" = "%d yıl önce";
+"%d years ago" = "%d yıl";
 
 /* No comment provided by engineer. */
-"A minute ago" = "Bir dakika önce";
+"A minute ago" = "1 dk.";
 
 /* No comment provided by engineer. */
-"An hour ago" = "Bir saat önce";
+"An hour ago" = "1 saat";
 
 /* No comment provided by engineer. */
-"Just now" = "Şimdi";
+"Just now" = "şimdi";
 
 /* No comment provided by engineer. */
-"Last month" = "Geçen ay";
+"Last month" = "geçen ay";
 
 /* No comment provided by engineer. */
-"Last week" = "Geçen hafta";
+"Last week" = "geç. haf.";
 
 /* No comment provided by engineer. */
-"Last year" = "Geçen yıl";
+"Last year" = "geçen yıl";
 
 /* No comment provided by engineer. */
-"Yesterday" = "Dün";
+"Yesterday" = "dün";
 
 /* No comment provided by engineer. */
-"1 year ago" = "1 yıl önce";
+"1 year ago" = "1 yıl";
 
 /* No comment provided by engineer. */
-"1 month ago" = "1 ay önce";
+"1 month ago" = "1 ay";
 
 /* No comment provided by engineer. */
-"1 week ago" = "1 hafta önce";
+"1 week ago" = "1 hafta";
 
 /* No comment provided by engineer. */
-"1 day ago" = "1 gün önce";
+"1 day ago" = "1 gün";
 
 /* No comment provided by engineer. */
-"This morning" = "Bu sabah";
+"This morning" = "sabah";
 
 /* No comment provided by engineer. */
-"This afternoon" = "Öğleden sonra";
+"This afternoon" = "öğleden son.";
 
 /* No comment provided by engineer. */
-"Today" = "Bugün";
+"Today" = "bugün";
 
 /* No comment provided by engineer. */
-"This week" = "Bu hafta";
+"This week" = "bu hafta";
 
 /* No comment provided by engineer. */
-"This month" = "Bu ay";
+"This month" = "bu ay";
 
 /* No comment provided by engineer. */
-"This year" = "Bu yıl";
+"This year" = "bu yıl";
